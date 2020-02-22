@@ -4,7 +4,7 @@ A platform for NetHub community to connect and share information, find jobs, bus
 
 Users can also create small posts and like/dislike and comment on other posts.
 
-Demo: <iframe width="560" height="315" src="https://www.youtube.com/embed/GQI95Q5AQU4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Demo: [demo video](https://www.youtube.com/embed/GQI95Q5AQU4)
 ---
 
 ## Quick Start
