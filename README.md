@@ -1,4 +1,4 @@
-# REPORT NetHub: A Social networking Platform for Africans in Finland
+# REPORT NetHub: A Social networking Platform for People in Finland
 
 A platform for NetHub community to connect and share information, find jobs, business partners, and just post like in other social medias. Business people and companies can create their portofolio by adding their experience, education, skills, interests and other important information of their professional career.
 
