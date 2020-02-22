@@ -4,7 +4,7 @@ A platform for NetHub community to connect and share information, find jobs, bus
 
 Users can also create small posts and like/dislike and comment on other posts.
 
-
+Demo: <iframe width="560" height="315" src="https://www.youtube.com/embed/GQI95Q5AQU4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 
 ## Quick Start
@@ -22,6 +22,18 @@ In the .env file create the below 2 enviroment varieables. Make sure it is exact
 ```
 DB_URL=YOUR_OWN_MONGO_URI
 TOKEN_SECRET=YOUR_OWN_SECRET
+
+
+CLOUD_NAME=YOUR_OWN
+API_ID=YOUR_OWN
+API_SECRET=YOUR_OWN
+CLOUDINARY_URL=YOUR_OWN
+
+cloud_name=YOUR_OWN
+api_key=YOUR_OWN
+api_secret=YOUR_OWN
+cloudinary_url=YOUR_OWN
+
 ```
 
 To run the development server:
