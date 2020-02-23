@@ -167,3 +167,9 @@ BASIC INFO
 
 The reason why there is only one PORT is that 'views' folder is set as a PUBLIC STATIC folder in 'server.js' 
 and browser can access any file of that folder
+
+For the react components there is nothing special. Everthing seems to be working just like in 'create-react-app'
+- We have a directory called 'actions/' where the action creators for redux are exported
+- 'components/' directiory which contains a bunch of subdirectories. Let's consider 'commons/' directory in 'components/', this commons directory contains an 'index.js' file which is doing nothing but importing all the commons components and exporting them out. Same goes for 'containers, layout and views' directories.
+- 'constants/' directory contains action types that are used in both reducers and action creators.
+- 'reducers/' directory contains all the redux state reducers combine them and export them in 'index.js'.
