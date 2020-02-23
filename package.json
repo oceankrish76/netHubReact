@@ -61,7 +61,10 @@
     "validator": "^10.3.0"
   },
   "devDependencies": {
+<<<<<<< HEAD
     "@babel/register": "^7.8.3",
+=======
+>>>>>>> e28666c5f6603fb52761a18c779764d4079dea77
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.4",
@@ -91,4 +94,8 @@
     "webpack-dev-server": "^3.10.1",
     "webpack-hot-middleware": "^2.22.2"
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e28666c5f6603fb52761a18c779764d4079dea77

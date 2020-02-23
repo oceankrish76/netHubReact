@@ -54,10 +54,13 @@ mongoose.connect(
 const app = express();
 
 // view engine setup
+<<<<<<< HEAD
 /* The reason why there is only one PORT is that 
 'views' folder is set as a PUBLIC STATIC folder in 'server.js' 
 and browser can access any file of that folder 
 */
+=======
+>>>>>>> e28666c5f6603fb52761a18c779764d4079dea77
 app.set("views", path.join(__dirname, "../views"));
 app.set("view engine", "hbs");
 

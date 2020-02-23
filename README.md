@@ -53,10 +53,13 @@ npm run build
 npm run prod
 ```
 
+<<<<<<< HEAD
 # if you run into some issues with new clone
 sudo npm install -g --force nodemon
 npm install --save-dev @babel/register
 
+=======
+>>>>>>> e28666c5f6603fb52761a18c779764d4079dea77
 In the project a `Procfile` has also been provided. This file is used by Heroku.
 
 ### To deploy this project to heroku see steps below:
@@ -158,6 +161,7 @@ storing our images to database or server ****
 
  MOST OF MY TIME IN JANUARY WENT FOR FINDIND AND MAKING USE OF THE PROPER WAY OF STORING IMAGES IN MERN AND I HAVE TRIED MANY WAYS AND NOW THIS IS ONE OF THE GOOD WAYS.
 
+<<<<<<< HEAD
 BASIC INFO
 
 - It is using Babel for compiling stuff and Webpack for bundling.
@@ -174,3 +178,5 @@ For the react components there is nothing special. Everthing seems to be working
 - 'constants/' directory contains action types that are used in both reducers and action creators.
 - 'reducers/' directory contains all the redux state reducers combine them and export them in 'index.js'.
 - 'utils' directory 
+=======
+>>>>>>> e28666c5f6603fb52761a18c779764d4079dea77
