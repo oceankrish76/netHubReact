@@ -173,3 +173,4 @@ For the react components there is nothing special. Everthing seems to be working
 - 'components/' directiory which contains a bunch of subdirectories. Let's consider 'commons/' directory in 'components/', this commons directory contains an 'index.js' file which is doing nothing but importing all the commons components and exporting them out. Same goes for 'containers, layout and views' directories.
 - 'constants/' directory contains action types that are used in both reducers and action creators.
 - 'reducers/' directory contains all the redux state reducers combine them and export them in 'index.js'.
+- 'utils' directory 
